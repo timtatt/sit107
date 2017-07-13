@@ -11,44 +11,44 @@ void setup() {
 void loop() {
   // S
   digitalWrite(LED_BUILTIN, HIGH);
-  delay(500);
+  delay(250);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
+  delay(250);
   digitalWrite(LED_BUILTIN, HIGH);
-  delay(500);
+  delay(250);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
+  delay(250);
   digitalWrite(LED_BUILTIN, HIGH);
-  delay(500);
+  delay(250);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
+  delay(250);
 
   // O
   digitalWrite(LED_BUILTIN, HIGH);
-  delay(1000);
+  delay(500);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
+  delay(500);
   digitalWrite(LED_BUILTIN, HIGH);
-  delay(1000);
+  delay(500);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
+  delay(500);
   digitalWrite(LED_BUILTIN, HIGH);
-  delay(1000);
+  delay(500);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
+  delay(500);
   
   // S
   digitalWrite(LED_BUILTIN, HIGH);
-  delay(500);
+  delay(250);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
+  delay(250);
   digitalWrite(LED_BUILTIN, HIGH);
-  delay(500);
+  delay(250);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
+  delay(250);
   digitalWrite(LED_BUILTIN, HIGH);
-  delay(500);
+  delay(250);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
+  delay(250);
 
 }
